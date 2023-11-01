@@ -16,7 +16,7 @@ Anda dapat menggunakan informasi login berikut untuk mengakses aplikasi:
 ### User Grup 1-6
 - Username: grup1
 - Password: grup1
-- (dan seterusnya) untuk grup2, dst..
+- Dan seterusnya untuk grup2, grup3,..
 
 ## Fitur
 Aplikasi Bellizer memiliki beberapa fitur utama:
